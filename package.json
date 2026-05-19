@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is 1st app",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/vinodmettla/react-basics-E01#readme",
+  "bugs": {
+    "url": "https://github.com/vinodmettla/react-basics-E01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodmettla/react-basics-E01.git"
+  },
+  "license": "ISC",
+  "author": "vinod",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
